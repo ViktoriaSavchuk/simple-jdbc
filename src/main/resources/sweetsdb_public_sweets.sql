@@ -1,0 +1,4 @@
+INSERT INTO public.sweets (id, name, wrapper_weight, filling_weight, filling_name, wrapper_name) VALUES (1, 'romashka', 1000, 15000, 'fudge_romashka', 'milk_choco');
+INSERT INTO public.sweets (id, name, wrapper_weight, filling_weight, filling_name, wrapper_name) VALUES (2, 'bdzilka', null, 8000, 'fruit_jelly', null);
+INSERT INTO public.sweets (id, name, wrapper_weight, filling_weight, filling_name, wrapper_name) VALUES (3, 'bonbonita', null, 9000, 'caramel', null);
+INSERT INTO public.sweets (id, name, wrapper_weight, filling_weight, filling_name, wrapper_name) VALUES (4, 'name1', 3000, null, null, 'sFscd');
